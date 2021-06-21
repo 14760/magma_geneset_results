@@ -1,0 +1,5 @@
+# MEAN_SAMPLE_SIZE = 91164
+# TOTAL_GENES = 18287
+# CONDITIONED_INTERNAL = genesize, log_genesize, genedensity, log_genedensity, inverse_mac, log_inverse_mac
+SET     NGENES       BETA   BETA_STD         SE            P
+notLCC      16      0.213    0.00629      0.265      0.21116

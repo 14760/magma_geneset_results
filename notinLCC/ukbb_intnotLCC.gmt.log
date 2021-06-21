@@ -1,0 +1,24 @@
+Welcome to MAGMA v1.06b (mac)
+Using flags:
+	--gene-results ./gene_results/ukbb_int.genes.raw
+	--set-annot notLCC.gmt
+	--out gene_set/ukbb_intnotLCC.gmt
+
+Start time is 17:19:07, Friday 28 Aug 2020
+
+Reading file ./gene_results/ukbb_int.genes.raw... 
+	18287 genes read from file
+Loading gene-set annotation...
+Reading file notLCC.gmt... 
+	1 gene-set definitions read from file
+	found 1 gene sets containing genes defined in genotype data (containing a total of 16 unique genes)
+
+Starting gene-level analysis...
+	conditioning competitive gene-set analysis and gene covariate analysis on variables:	
+		genesize, log_genesize (internal)
+		genedensity, log_genedensity (internal)
+		inverse_mac, log_inverse_mac (internal)
+	writing gene-set analysis results to file gene_set/ukbb_intnotLCC.gmt.sets.out
+
+
+End time is 17:19:20, Friday 28 Aug 2020 (elapsed: 00:00:13)
